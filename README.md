@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=35&text=Hey%20it's%20Sadat&font=Times+New+Roman&textBg=false"/>
+
 
 <!-- Animated Typing Effect Title (Times New Roman, No Background) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=Hey+it's+Sadat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=48&duration=1500&pause=800&color=BF00FF&center=true&vCenter=true&width=600&height=70&lines=Hey,+it's+Sadat" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
