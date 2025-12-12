@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&fontSize=48&fontColor=000000&animation=twinkling&fontAlignY=35&text=Hey%20it's%20Sadat&font=Times+New+Roman&textBg=false"/>
 
 <!-- Animated Typing Effect Title (Times New Roman, No Background) -->
 <p align="center">
