@@ -1,9 +1,8 @@
 
 
-
 <!-- Animated Typing Effect Title (Times New Roman, No Background) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Agency+FB&weight=700&size=52&duration=1500&pause=800&color=7F00FF&center=true&vCenter=true&width=600&height=70&lines=Hey,+it's+Sadat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Agency+FB&weight=700&size=52&duration=1500&pause=800&color=7F00FF&center=true&vCenter=true&width=600&height=70&lines=Hey+!+It's+Sadat" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -41,3 +40,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
