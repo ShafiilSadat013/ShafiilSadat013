@@ -1,6 +1,5 @@
-
-
 <!-- Animated Typing Effect Title (Times New Roman, No Background) -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Agency+FB&weight=700&size=52&duration=1500&pause=800&color=7F00FF&center=true&vCenter=true&width=600&height=70&lines=Hey+!+It's+Sadat" />
 </p>
@@ -8,24 +7,30 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Wannabe Engineer
+
+* Wannabe Engineer
 
 ## 🧠 My Focus Areas
-- ANYTHING RELATED TO TECH AND POP CULTURE
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShafiilSadat013&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="ShafiilSadat013's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=ShafiilSadat013&theme=radical&hide_border=true&cache_seconds=86400" alt="ShafiilSadat013's GitHub Streak" width="49%" />
-</p>
+* ANYTHING RELATED TO TECH AND POP CULTURE
 
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" />
+</p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="48" height="48" style="margin: 4px;" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafiilSadat013&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
