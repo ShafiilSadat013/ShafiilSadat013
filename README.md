@@ -10,11 +10,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F00FF&height=2&section=header" />
 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShafiilSadat013&theme=tokyonight" alt="GitHub Streak" /></a>
+
 ## 📌 About Me
 
 * Wannabe Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F00FF&height=2" />
+
 
 ## 🧠 My Focus Areas
 
