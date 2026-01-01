@@ -1,3 +1,4 @@
+
 <!-- Animated Typing Effect Title -->
 
 <p align="center">
@@ -11,7 +12,6 @@
 ---
 
 ## 📌 About Me
-
 * Wannabe Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F00FF&height=2" />
@@ -19,7 +19,6 @@
 ---
 
 ## 🧠 My Focus Areas
-
 * ANYTHING RELATED TO TECH AND POP CULTURE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F00FF&height=2" />
@@ -29,28 +28,33 @@
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
 </p>
 
 ---
 
 ### 🧰 Tools
-
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" />
+</p>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafiilSadat013&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafiilSadat013&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7F00FF&height=2" />
